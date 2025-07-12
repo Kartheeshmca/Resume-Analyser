@@ -1,1 +1,2 @@
 # Resume-Analyser
+WORKING ON THE LOGIN AND NLP
